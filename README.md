@@ -1,10 +1,9 @@
 # mazegen_csharp
 Maze generator program written in C#, using the recursive backtracker algorithm.
 
-*VERSION HISTORY*
+<b>Version 1.0</b>
 
-# VERSION 1.0 #
-# Jan-08-2019 #
+<i>(Jan-08-2019)</i>
 
 As of v1.0, the program generates a pseudo-random perfect maze in a given size, using the recursive bactracker algorithm.
 The maze is drawn to a Windows Forms panel and can be saved in JPEG, PNG or BMP format.
